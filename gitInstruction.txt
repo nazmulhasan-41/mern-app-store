@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/nazmulhasan-41/shop-store-react-redux.git
+
+git push -u origin master
+                
+
